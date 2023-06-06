@@ -1,4 +1,6 @@
-﻿# About Me
+![It's Me!](https://d131oejryywhj7.cloudfront.net/p/api/usuario/dup/w4CQZn5K20j73naOa5W7Qb3B-CYM8J0M0.jpg/600x600cut/?s=l)
+
+# About Me
 
 Hi! I'm  **Sarah Woolsey**. I recently resigned from educational leadership or pursue other opportunities in software development.  Although the two disciplines seem fairly disparate, I would like to design some educational applications (Reading/Vocabulary) in the future so I'm excited for the journey.
 
