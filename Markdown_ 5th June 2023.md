@@ -40,7 +40,7 @@ The asterix *
 ***What are the three symbols you can use to create an unordered (bulleted) list with Markdown?***
 Asterixes, hyphens and plus signs
 
-![Completed](https://www.bing.com/images/search?view=detailV2&ccid=VyXKxYBE&id=C462C050F8188066B38BF8EBDA9A7F2404BED9FB&thid=OIP.VyXKxYBEQ236AcAceFfMGQHaFs&mediaurl=https%3a%2f%2fwww.onlygfx.com%2fwp-content%2fuploads%2f2018%2f04%2fcompleted-stamp-2.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5725cac58044436dfa01c01c7857cc19%3frik%3d%252b9m%252bBCR%252fmtrr%252bA%26pid%3dImgRaw%26r%3d0&exph=1800&expw=2338&q=completed&simid=608005659811408144&FORM=IRPRST&ck=D81E51FC372D5AF596E2A656DBBD6D42&selectedIndex=0&ajaxhist=0&ajaxserp=0 "I tried to add an image.")
+![Completed](https://www.onlygfx.com/wp-content/uploads/2018/04/completed-stamp-4.png)
 
 
 
