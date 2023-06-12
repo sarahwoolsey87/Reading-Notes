@@ -1,0 +1,26 @@
+2023-06-06 19:54:52.176 [warning] /home/sarahwoolsey87/.ssh/config: ENOENT: no such file or directory, open '/home/sarahwoolsey87/.ssh/config'
+2023-06-06 19:54:52.234 [info] TemporaryState> Error in initialization: Unable to delete nonexistent file 'vscode-remote://wsl+ubuntu/home/sarahwoolsey87/.vscode-server/data/User/globalStorage/github.vscode-pull-request-github/temp'
+2023-06-06 19:54:52.304 [info] Looking for git repository
+2023-06-06 19:54:52.304 [info] Found 0 repositories during activation
+2023-06-06 19:54:52.304 [info] Git repository found, initializing review manager and pr tree view.
+2023-06-06 19:54:52.317 [info] Registering git provider
+2023-06-06 19:54:52.317 [info] Review> Validate state in progress
+2023-06-06 19:54:52.317 [info] Review> Validating state...
+2023-06-06 19:54:52.390 [info] Found GitHub remote for folder /home/sarahwoolsey87/Reading-Notes
+2023-06-06 19:54:52.514 [info] Repo state for file:///home/sarahwoolsey87/Reading-Notes changed.
+2023-06-06 19:54:52.515 [info] Repo file:///home/sarahwoolsey87/Reading-Notes has already been setup.
+2023-06-06 19:54:52.516 [info] Review> no matching pull request metadata found for current branch main
+2023-06-06 19:54:52.518 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-06 21:18:46.627 [info] Review> Validate state in progress
+2023-06-06 21:18:46.669 [info] Review> Validating state...
+2023-06-06 21:18:46.774 [info] Found GitHub remote for folder /home/sarahwoolsey87/Reading-Notes
+2023-06-06 21:18:46.795 [info] Found GitHub remote for folder /home/sarahwoolsey87/Reading-Notes
+2023-06-06 21:18:46.796 [info] Found GitHub remote for folder /home/sarahwoolsey87/Reading-Notes
+2023-06-06 21:18:47.757 [info] Found GitHub remote for folder /home/sarahwoolsey87/Reading-Notes
+2023-06-06 21:18:48.008 [info] Review> no matching pull request metadata found for current branch main
+2023-06-06 21:18:49.910 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-06 21:54:53.569 [info] Review> Validate state in progress
+2023-06-06 21:54:53.569 [info] Review> Validating state...
+2023-06-06 21:54:53.783 [info] Found GitHub remote for folder /home/sarahwoolsey87/Reading-Notes
+2023-06-06 21:54:53.858 [info] Review> no matching pull request metadata found for current branch main
+2023-06-06 21:54:54.250 [info] Review> No matching pull request metadata found on GitHub for current branch main

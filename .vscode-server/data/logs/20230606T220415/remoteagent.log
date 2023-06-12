@@ -1,0 +1,83 @@
+2023-06-06 22:04:17.179 [info] 
+
+
+
+
+2023-06-06 22:04:18.411 [info] Extension host agent started.
+2023-06-06 22:04:22.670 [info] [127.0.0.1][7575ffdf][ManagementConnection] New connection established.
+2023-06-06 22:04:23.614 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-06 22:04:27.826 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-06-06 22:04:27.830 [error] resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-06-06 22:04:27.885 [info] [127.0.0.1][bdf8d77f][ExtensionHostConnection] New connection established.
+2023-06-06 22:04:27.910 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-06-06 22:04:27.922 [info] [127.0.0.1][bdf8d77f][ExtensionHostConnection] <998> Launched Extension Host Process.
+2023-06-06 22:04:29.895 [error] No ptyHost heartbeat after 12 seconds
+2023-06-06 22:04:38.800 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-06 22:04:46.504 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-06-06 23:20:36.517 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-06 23:21:24.348 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 07:30:34.556 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 07:31:01.224 [info] [127.0.0.1][7575ffdf][ManagementConnection] The client has reconnected.
+2023-06-07 07:31:02.084 [info] [127.0.0.1][bdf8d77f][ExtensionHostConnection] The client has reconnected.
+2023-06-07 07:31:03.481 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 07:33:03.427 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 07:34:32.615 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 07:36:28.198 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 07:38:59.263 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 08:39:56.124 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 08:48:23.688 [info] [127.0.0.1][7575ffdf][ManagementConnection] The client has reconnected.
+2023-06-07 08:48:25.498 [info] [127.0.0.1][bdf8d77f][ExtensionHostConnection] The client has reconnected.
+2023-06-07 11:19:39.953 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 11:21:02.015 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 13:56:33.528 [info] Getting Manifest... ms-vscode.live-server
+2023-06-07 13:56:34.420 [info] Installing extension: ms-vscode.live-server
+2023-06-07 13:57:06.972 [info] Extension signature is verified: ms-vscode.live-server
+2023-06-07 13:57:17.427 [info] Extracted extension to /home/sarahwoolsey87/.vscode-server/extensions/.fb10e55f-5c92-4f55-a78b-dfedb66822a9: ms-vscode.live-server
+2023-06-07 13:57:17.568 [info] Renamed to /home/sarahwoolsey87/.vscode-server/extensions/ms-vscode.live-server-0.4.8
+2023-06-07 13:57:17.572 [info] Extracting extension completed. ms-vscode.live-server
+2023-06-07 13:57:17.757 [info] Extension installed successfully: ms-vscode.live-server
+2023-06-07 14:22:28.720 [info] Getting Manifest... koppt.vscode-view-in-browser
+2023-06-07 14:22:28.901 [info] Installing extension: koppt.vscode-view-in-browser
+2023-06-07 14:22:31.056 [info] Getting Manifest... wscats.cors-browser
+2023-06-07 14:22:31.217 [info] Installing extension: wscats.cors-browser
+2023-06-07 14:22:34.124 [info] Extension signature is verified: koppt.vscode-view-in-browser
+2023-06-07 14:22:34.235 [info] Extracted extension to /home/sarahwoolsey87/.vscode-server/extensions/.a582033c-1ec9-4838-99ad-69bc0fd0a494: koppt.vscode-view-in-browser
+2023-06-07 14:22:34.460 [info] Renamed to /home/sarahwoolsey87/.vscode-server/extensions/koppt.vscode-view-in-browser-1.0.5
+2023-06-07 14:22:34.466 [info] Extracting extension completed. koppt.vscode-view-in-browser
+2023-06-07 14:22:34.639 [info] Extension installed successfully: koppt.vscode-view-in-browser
+2023-06-07 14:22:43.119 [info] Extension signature is verified: wscats.cors-browser
+2023-06-07 14:22:44.157 [info] Extracted extension to /home/sarahwoolsey87/.vscode-server/extensions/.3e6d1163-095e-4a85-9fac-f697a5b67d86: wscats.cors-browser
+2023-06-07 14:22:44.257 [info] Renamed to /home/sarahwoolsey87/.vscode-server/extensions/wscats.cors-browser-1.0.11
+2023-06-07 14:22:44.261 [info] Extracting extension completed. wscats.cors-browser
+2023-06-07 14:22:44.371 [info] Extension installed successfully: wscats.cors-browser
+2023-06-07 14:40:41.820 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-06-07 14:40:42.548 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 14:40:46.228 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-06-07 14:56:36.027 [info] Getting Manifest... profimedica.live-preview
+2023-06-07 14:56:36.688 [info] Installing extension: profimedica.live-preview
+2023-06-07 14:57:12.906 [info] Extension signature is verified: profimedica.live-preview
+2023-06-07 14:57:15.020 [info] Extracted extension to /home/sarahwoolsey87/.vscode-server/extensions/.f14e38fb-e1cd-4ff6-b654-aa1388d9c9b9: profimedica.live-preview
+2023-06-07 14:57:15.306 [info] Renamed to /home/sarahwoolsey87/.vscode-server/extensions/profimedica.live-preview-0.0.3
+2023-06-07 14:57:15.309 [info] Extracting extension completed. profimedica.live-preview
+2023-06-07 14:57:15.431 [info] Extension installed successfully: profimedica.live-preview
+2023-06-07 15:32:26.411 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 15:59:15.681 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 17:17:56.076 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 17:18:01.887 [error] No ptyHost heartbeat after 12 seconds
+2023-06-07 19:05:40.092 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 19:06:02.602 [info] [127.0.0.1][7575ffdf][ManagementConnection] The client has reconnected.
+2023-06-07 19:06:09.203 [info] [127.0.0.1][bdf8d77f][ExtensionHostConnection] The client has reconnected.
+2023-06-07 19:06:13.180 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 21:13:15.321 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 21:15:09.900 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 21:48:42.581 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 22:37:34.195 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 22:40:48.865 [info] [127.0.0.1][bdf8d77f][ExtensionHostConnection] The client has reconnected.
+2023-06-07 22:40:51.447 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 22:41:04.108 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 22:41:57.630 [info] [127.0.0.1][7575ffdf][ManagementConnection] The client has reconnected.
+2023-06-07 22:42:01.923 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 23:20:21.084 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 23:49:01.469 [info] [127.0.0.1][7575ffdf][ManagementConnection] The client has reconnected.
+2023-06-07 23:49:20.229 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-07 23:49:57.404 [info] [127.0.0.1][bdf8d77f][ExtensionHostConnection] The client has reconnected.

@@ -1,0 +1,36 @@
+2023-06-11 23:51:50.427 [info] 
+
+
+
+
+2023-06-11 23:51:50.522 [info] Extension host agent started.
+2023-06-11 23:51:53.613 [info] [127.0.0.1][10506e03][ManagementConnection] New connection established.
+2023-06-11 23:51:53.619 [info] [127.0.0.1][58be347e][ExtensionHostConnection] New connection established.
+2023-06-11 23:51:55.557 [info] [127.0.0.1][58be347e][ExtensionHostConnection] <140076> Launched Extension Host Process.
+2023-06-11 23:52:02.613 [info] Getting Manifest... github.vscode-pull-request-github
+2023-06-11 23:52:02.817 [info] Installing extension: github.vscode-pull-request-github
+2023-06-11 23:52:07.510 [info] Extension signature is verified: github.vscode-pull-request-github
+2023-06-11 23:52:07.800 [info] Extracted extension to /home/sarahwoolsey87/.vscode-server/extensions/.16121df0-c9d1-4337-a260-fd867c8e7c5b: github.vscode-pull-request-github
+2023-06-11 23:52:08.151 [info] Renamed to /home/sarahwoolsey87/.vscode-server/extensions/github.vscode-pull-request-github-0.66.0
+2023-06-11 23:52:08.161 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-06-11 23:52:08.303 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-06-11 23:52:08.333 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.64.0
+2023-06-12 00:01:37.189 [info] Getting Manifest... ecmel.vscode-html-css
+2023-06-12 00:01:37.313 [info] Installing extension: ecmel.vscode-html-css
+2023-06-12 00:01:40.749 [info] Extension signature is verified: ecmel.vscode-html-css
+2023-06-12 00:01:40.783 [info] Extracted extension to /home/sarahwoolsey87/.vscode-server/extensions/.09ac3121-0850-4675-9233-7aecaef2eaf9: ecmel.vscode-html-css
+2023-06-12 00:01:40.902 [info] Renamed to /home/sarahwoolsey87/.vscode-server/extensions/ecmel.vscode-html-css-1.13.1
+2023-06-12 00:01:40.905 [info] Extracting extension completed. ecmel.vscode-html-css
+2023-06-12 00:01:40.987 [info] Extension installed successfully: ecmel.vscode-html-css
+2023-06-12 02:07:08.428 [info] [127.0.0.1][10506e03][ManagementConnection] The client has reconnected.
+2023-06-12 02:07:08.432 [info] [127.0.0.1][58be347e][ExtensionHostConnection] The client has reconnected.
+2023-06-12 02:20:13.029 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-12 08:36:15.957 [info] [127.0.0.1][58be347e][ExtensionHostConnection] The client has reconnected.
+2023-06-12 08:36:16.297 [info] [127.0.0.1][10506e03][ManagementConnection] The client has reconnected.
+2023-06-12 09:52:41.414 [info] Getting Manifest... alfredbirk.git-add-commit-push
+2023-06-12 09:52:41.633 [info] Installing extension: alfredbirk.git-add-commit-push
+2023-06-12 09:52:46.340 [info] Extension signature is verified: alfredbirk.git-add-commit-push
+2023-06-12 09:52:46.362 [info] Extracted extension to /home/sarahwoolsey87/.vscode-server/extensions/.e6ab463f-6593-404d-9d27-54fa664f89bf: alfredbirk.git-add-commit-push
+2023-06-12 09:52:46.457 [info] Renamed to /home/sarahwoolsey87/.vscode-server/extensions/alfredbirk.git-add-commit-push-0.13.0
+2023-06-12 09:52:46.460 [info] Extracting extension completed. alfredbirk.git-add-commit-push
+2023-06-12 09:52:46.542 [info] Extension installed successfully: alfredbirk.git-add-commit-push

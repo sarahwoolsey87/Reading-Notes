@@ -1,0 +1,31 @@
+2023-06-06 22:04:53.922 [warning] /home/sarahwoolsey87/.ssh/config: ENOENT: no such file or directory, open '/home/sarahwoolsey87/.ssh/config'
+2023-06-06 22:04:54.860 [info] Looking for git repository
+2023-06-06 22:04:54.860 [info] Found 0 repositories during activation
+2023-06-06 22:04:54.860 [info] Git repository found, initializing review manager and pr tree view.
+2023-06-06 22:04:54.865 [info] Registering git provider
+2023-06-06 22:04:54.865 [info] Review> Validate state in progress
+2023-06-06 22:04:54.865 [info] Review> Validating state...
+2023-06-06 22:04:54.866 [warning] No remotes found. The following remotes are missing: origin, upstream
+2023-06-06 22:04:54.866 [info] No GitHub remotes found for folder /home/sarahwoolsey87/Reading-Notes
+2023-06-06 22:04:55.477 [info] Review> Queuing additional validate state
+2023-06-06 22:04:55.477 [info] Repo state for file:///home/sarahwoolsey87/Reading-Notes changed.
+2023-06-06 22:04:55.477 [info] Repo file:///home/sarahwoolsey87/Reading-Notes has already been setup.
+2023-06-06 22:04:55.604 [info] Review> Validating state...
+2023-06-06 22:04:55.613 [info] Found GitHub remote for folder /home/sarahwoolsey87/Reading-Notes
+2023-06-06 22:04:56.415 [info] Review> no matching pull request metadata found for current branch main
+2023-06-06 22:04:56.900 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-06 22:05:37.643 [info] Review> Validate state in progress
+2023-06-06 22:05:37.643 [info] Review> Validating state...
+2023-06-06 22:05:37.658 [info] Found GitHub remote for folder /home/sarahwoolsey87/Reading-Notes
+2023-06-06 22:05:37.772 [info] Review> no matching pull request metadata found for current branch main
+2023-06-06 22:05:38.147 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-07 11:40:34.720 [info] Review> Validate state in progress
+2023-06-07 11:40:34.754 [info] Review> Validating state...
+2023-06-07 11:40:36.941 [info] Found GitHub remote for folder /home/sarahwoolsey87/Reading-Notes
+2023-06-07 11:40:37.041 [info] Review> no matching pull request metadata found for current branch main
+2023-06-07 11:40:39.072 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-07 11:44:10.658 [info] Review> Validate state in progress
+2023-06-07 11:44:10.658 [info] Review> Validating state...
+2023-06-07 11:44:10.674 [info] Found GitHub remote for folder /home/sarahwoolsey87/Reading-Notes
+2023-06-07 11:44:11.017 [info] Review> no matching pull request metadata found for current branch main
+2023-06-07 11:44:12.306 [info] Review> No matching pull request metadata found on GitHub for current branch main

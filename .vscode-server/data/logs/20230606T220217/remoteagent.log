@@ -1,0 +1,12 @@
+2023-06-06 22:02:17.881 [info] 
+
+
+
+
+2023-06-06 22:02:18.361 [info] Extension host agent started.
+2023-06-06 22:02:20.776 [info] [127.0.0.1][ccef34c5][ManagementConnection] New connection established.
+2023-06-06 22:02:25.815 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-06 22:02:27.883 [info] [127.0.0.1][09a95480][ExtensionHostConnection] New connection established.
+2023-06-06 22:02:28.309 [info] [127.0.0.1][09a95480][ExtensionHostConnection] <6485> Launched Extension Host Process.
+2023-06-06 22:02:39.490 [info] [127.0.0.1][ccef34c5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-06 22:02:40.579 [info] [127.0.0.1][09a95480][ExtensionHostConnection] <6485> Extension Host Process exited with code: 0, signal: null.

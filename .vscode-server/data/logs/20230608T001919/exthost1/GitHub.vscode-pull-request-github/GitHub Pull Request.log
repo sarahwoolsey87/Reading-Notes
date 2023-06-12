@@ -1,0 +1,24 @@
+2023-06-08 00:19:38.853 [warning] /home/sarahwoolsey87/.ssh/config: ENOENT: no such file or directory, open '/home/sarahwoolsey87/.ssh/config'
+2023-06-08 00:19:39.139 [info] Looking for git repository
+2023-06-08 00:19:39.139 [info] Found 0 repositories during activation
+2023-06-08 00:19:39.139 [info] Git repository found, initializing review manager and pr tree view.
+2023-06-08 00:19:39.149 [info] Registering git provider
+2023-06-08 00:19:39.149 [info] Review> Validate state in progress
+2023-06-08 00:19:39.149 [info] Review> Validating state...
+2023-06-08 00:19:39.149 [info] Review> Validate state in progress
+2023-06-08 00:19:39.149 [info] Review> Validating state...
+2023-06-08 00:19:39.206 [info] Found GitHub remote for folder /home/sarahwoolsey87/Reading-Notes/HTML-Practice
+2023-06-08 00:19:39.208 [info] Found GitHub remote for folder /home/sarahwoolsey87/Reading-Notes
+2023-06-08 00:19:39.408 [info] Repo state for file:///home/sarahwoolsey87/Reading-Notes changed.
+2023-06-08 00:19:39.408 [info] Repo file:///home/sarahwoolsey87/Reading-Notes has already been setup.
+2023-06-08 00:19:40.272 [info] Review> no matching pull request metadata found for current branch main
+2023-06-08 00:19:40.365 [info] Repo state for file:///home/sarahwoolsey87/Reading-Notes/HTML-Practice changed.
+2023-06-08 00:19:40.365 [info] Repo file:///home/sarahwoolsey87/Reading-Notes/HTML-Practice has already been setup.
+2023-06-08 00:19:40.367 [info] Review> no matching pull request metadata found for current branch main
+2023-06-08 00:19:40.369 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-08 00:19:44.422 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-08 00:37:50.312 [info] Review> Validate state in progress
+2023-06-08 00:37:50.313 [info] Review> Validating state...
+2023-06-08 00:37:50.450 [info] Found GitHub remote for folder /home/sarahwoolsey87/Reading-Notes/HTML-Practice
+2023-06-08 00:37:51.042 [info] Review> no matching pull request metadata found for current branch main
+2023-06-08 00:37:51.482 [info] Review> No matching pull request metadata found on GitHub for current branch main

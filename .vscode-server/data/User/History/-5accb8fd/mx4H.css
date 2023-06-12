@@ -1,0 +1,89 @@
+
+body {background-color: yellow;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+
+
+<style> 
+
+p.first {border-style: dotted;}
+
+#cheese { position: absolute; visibility: visible; left: 600px; top: 130px; height: 100px; width: 150px; z-index: 200; }
+#cheese2 { position: absolute; visibility: visible; left: 300px; top: 130px; height: 100px; width: 150px; z-index: 200; }
+</style>
+
+<style>
+first{ -webkit-text-stroke: 1px red;
+color: blue;}
+
+
+
+
+</style>
+
+<style>
+
+.First
+{
+ background-color: red;
+ -webkit-text-stroke: 1px black;
+ color: blue;
+ border-style: dotted;
+position: absolute;
+visibility: visible;
+left: 350px;
+top: 1100px;
+height: 120px;
+width: 500px;
+z-index: 20;
+}
+
+.second
+{
+ background-color: white;
+ -webkit-text-stroke: 1px black;
+ color: blue;
+ border-style: dotted;
+position: absolute;
+visibility: visible;
+left: 300px;
+top: 320px;
+height: 120px;
+width: 500px;
+z-index: 20;
+}
+
+.third
+{
+ background-color: yellow;
+ -webkit-text-stroke: 1px black;
+ color: blue;
+ border-style: dotted;
+position: absolute;
+visibility: visible;
+left: 300px;
+top: 620px;
+height: 120px;
+width: 500px;
+z-index: 20;
+}
+
+</style>
+
+
+
+<style>
+.myDiv {
+  border: 5px outset green;
+  background-color: lightblue;    
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="myDiv">
+  <h2>You are nacho alone if you brie-lieve: </h2>
+  <p>Sweet dreams are made of cheese! </p>
+</div>

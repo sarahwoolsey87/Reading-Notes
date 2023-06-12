@@ -1,0 +1,19 @@
+2023-06-06 19:03:27.938 [info] Log level: Info
+2023-06-06 19:03:27.938 [info] Validating found git in: "git"
+2023-06-06 19:03:27.938 [info] Using git "2.34.1" from "git"
+2023-06-06 19:03:27.938 [info] > git rev-parse --show-toplevel [308ms]
+2023-06-06 19:03:27.938 [info] fatal: this operation must be run in a work tree
+2023-06-06 19:03:27.959 [info] > git rev-parse --show-toplevel [134ms]
+2023-06-06 19:03:27.959 [info] fatal: this operation must be run in a work tree
+2023-06-06 19:03:27.976 [info] > git rev-parse --show-toplevel [9ms]
+2023-06-06 19:03:27.976 [info] fatal: this operation must be run in a work tree
+2023-06-06 19:03:27.991 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-06 19:03:27.991 [info] fatal: this operation must be run in a work tree
+2023-06-06 19:03:28.108 [info] > git rev-parse --show-toplevel [103ms]
+2023-06-06 19:03:28.109 [info] fatal: this operation must be run in a work tree
+2023-06-06 19:03:28.119 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-06 19:03:28.119 [info] fatal: this operation must be run in a work tree
+2023-06-06 19:03:28.125 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-06 19:03:28.125 [info] fatal: this operation must be run in a work tree
+2023-06-06 19:03:28.698 [info] > git rev-parse --show-toplevel [3ms]
+2023-06-06 19:03:28.698 [info] fatal: this operation must be run in a work tree

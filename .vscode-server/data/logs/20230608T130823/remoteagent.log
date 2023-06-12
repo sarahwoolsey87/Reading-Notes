@@ -1,0 +1,80 @@
+2023-06-08 13:08:23.725 [info] 
+
+
+
+
+2023-06-08 13:08:23.782 [info] Extension host agent started.
+2023-06-08 13:08:24.426 [info] [127.0.0.1][6f5421c8][ManagementConnection] New connection established.
+2023-06-08 13:08:26.586 [info] [127.0.0.1][dcff0b19][ExtensionHostConnection] New connection established.
+2023-06-08 13:08:26.606 [info] [127.0.0.1][dcff0b19][ExtensionHostConnection] <25723> Launched Extension Host Process.
+2023-06-08 15:52:02.498 [info] [127.0.0.1][dcff0b19][ExtensionHostConnection] The client has reconnected.
+2023-06-08 15:52:03.206 [info] [127.0.0.1][6f5421c8][ManagementConnection] The client has reconnected.
+2023-06-08 18:14:36.420 [info] [127.0.0.1][6f5421c8][ManagementConnection] The client has reconnected.
+2023-06-08 18:14:36.749 [info] [127.0.0.1][dcff0b19][ExtensionHostConnection] The client has reconnected.
+2023-06-08 18:29:47.301 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-08 18:30:19.148 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-09 07:55:35.184 [info] [127.0.0.1][6f5421c8][ManagementConnection] The client has reconnected.
+2023-06-09 07:55:36.592 [info] [127.0.0.1][dcff0b19][ExtensionHostConnection] The client has reconnected.
+2023-06-09 08:02:52.592 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-09 18:14:10.492 [info] [127.0.0.1][dcff0b19][ExtensionHostConnection] The client has reconnected.
+2023-06-09 18:14:10.976 [info] [127.0.0.1][6f5421c8][ManagementConnection] The client has reconnected.
+2023-06-09 19:24:44.379 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-09 19:31:12.825 [info] [127.0.0.1][dcff0b19][ExtensionHostConnection] The client has reconnected.
+2023-06-09 19:31:13.519 [info] [127.0.0.1][6f5421c8][ManagementConnection] The client has reconnected.
+2023-06-09 20:31:40.566 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-10 06:54:23.306 [info] [127.0.0.1][dcff0b19][ExtensionHostConnection] The client has reconnected.
+2023-06-10 06:54:23.729 [info] [127.0.0.1][6f5421c8][ManagementConnection] The client has reconnected.
+2023-06-10 07:02:10.024 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-11 15:46:01.800 [info] [127.0.0.1][dcff0b19][ExtensionHostConnection] The client has reconnected.
+2023-06-11 15:46:02.797 [info] [127.0.0.1][6f5421c8][ManagementConnection] The client has reconnected.
+2023-06-11 16:56:03.276 [info] [127.0.0.1][6f5421c8][ManagementConnection] The client has reconnected.
+2023-06-11 16:56:03.591 [info] [127.0.0.1][dcff0b19][ExtensionHostConnection] The client has reconnected.
+2023-06-11 17:14:27.209 [info] [127.0.0.1][6f5421c8][ManagementConnection] The client has reconnected.
+2023-06-11 17:14:27.772 [info] [127.0.0.1][dcff0b19][ExtensionHostConnection] The client has reconnected.
+2023-06-11 17:25:05.820 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-11 18:52:50.347 [info] [127.0.0.1][dcff0b19][ExtensionHostConnection] The client has reconnected.
+2023-06-11 18:52:50.908 [info] [127.0.0.1][6f5421c8][ManagementConnection] The client has reconnected.
+2023-06-11 19:49:48.007 [info] Getting Manifest... kostasx.live-html-previewer-v2
+2023-06-11 19:49:48.137 [info] Installing extension: kostasx.live-html-previewer-v2
+2023-06-11 19:49:55.002 [info] Extension signature is verified: kostasx.live-html-previewer-v2
+2023-06-11 19:50:01.245 [info] Extracted extension to /home/sarahwoolsey87/.vscode-server/extensions/.5eff89c3-6f30-47d6-b6c3-fbd268992fc4: kostasx.live-html-previewer-v2
+2023-06-11 19:50:01.352 [info] Renamed to /home/sarahwoolsey87/.vscode-server/extensions/kostasx.live-html-previewer-v2-0.1.9
+2023-06-11 19:50:01.355 [info] Extracting extension completed. kostasx.live-html-previewer-v2
+2023-06-11 19:50:01.455 [info] Extension installed successfully: kostasx.live-html-previewer-v2
+2023-06-11 20:06:57.891 [info] Getting Manifest... dbaeumer.vscode-eslint
+2023-06-11 20:06:58.018 [info] Installing extension: dbaeumer.vscode-eslint
+2023-06-11 20:07:01.475 [info] Extension signature is verified: dbaeumer.vscode-eslint
+2023-06-11 20:07:01.537 [info] Extracted extension to /home/sarahwoolsey87/.vscode-server/extensions/.d6b1b3bc-4695-409d-b5e1-ab017a853e05: dbaeumer.vscode-eslint
+2023-06-11 20:07:01.638 [info] Renamed to /home/sarahwoolsey87/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.0
+2023-06-11 20:07:01.651 [info] Extracting extension completed. dbaeumer.vscode-eslint
+2023-06-11 20:07:01.734 [info] Extension installed successfully: dbaeumer.vscode-eslint
+2023-06-11 20:07:09.823 [info] Getting Manifest... oderwat.indent-rainbow
+2023-06-11 20:07:09.956 [info] Installing extension: oderwat.indent-rainbow
+2023-06-11 20:07:13.688 [info] Extension signature is verified: oderwat.indent-rainbow
+2023-06-11 20:07:15.594 [info] Extracted extension to /home/sarahwoolsey87/.vscode-server/extensions/.6fc9d336-e2d4-49f3-bf7c-76ec3089ed73: oderwat.indent-rainbow
+2023-06-11 20:07:15.752 [info] Renamed to /home/sarahwoolsey87/.vscode-server/extensions/oderwat.indent-rainbow-8.3.1
+2023-06-11 20:07:15.761 [info] Extracting extension completed. oderwat.indent-rainbow
+2023-06-11 20:07:15.885 [info] Extension installed successfully: oderwat.indent-rainbow
+2023-06-11 20:07:27.732 [info] Getting Manifest... ritwickdey.liveserver
+2023-06-11 20:07:27.849 [info] Installing extension: ritwickdey.liveserver
+2023-06-11 20:07:31.944 [info] Extension signature is verified: ritwickdey.liveserver
+2023-06-11 20:07:38.279 [info] Extracted extension to /home/sarahwoolsey87/.vscode-server/extensions/.af4f6333-4f1d-41cd-a8b2-9cfc7b427dbd: ritwickdey.liveserver
+2023-06-11 20:07:38.438 [info] Renamed to /home/sarahwoolsey87/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-06-11 20:07:38.447 [info] Extracting extension completed. ritwickdey.liveserver
+2023-06-11 20:07:38.546 [info] Extension installed successfully: ritwickdey.liveserver
+2023-06-11 20:08:43.825 [info] Getting Manifest... esbenp.prettier-vscode
+2023-06-11 20:08:44.980 [info] Installing extension: esbenp.prettier-vscode
+2023-06-11 20:08:49.902 [info] Extension signature is verified: esbenp.prettier-vscode
+2023-06-11 20:08:50.418 [info] Extracted extension to /home/sarahwoolsey87/.vscode-server/extensions/.b17fa5d4-0bc9-49a1-8d4c-0ce5d5360a5b: esbenp.prettier-vscode
+2023-06-11 20:08:50.507 [info] Renamed to /home/sarahwoolsey87/.vscode-server/extensions/esbenp.prettier-vscode-9.13.0
+2023-06-11 20:08:50.521 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-06-11 20:08:50.616 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-06-11 20:09:06.952 [info] Getting Manifest... rangav.vscode-thunder-client
+2023-06-11 20:09:07.090 [info] Installing extension: rangav.vscode-thunder-client
+2023-06-11 20:09:11.879 [info] Extension signature is verified: rangav.vscode-thunder-client
+2023-06-11 20:09:12.066 [info] Extracted extension to /home/sarahwoolsey87/.vscode-server/extensions/.cd7515b0-ac6f-4056-8083-6e18b091ce34: rangav.vscode-thunder-client
+2023-06-11 20:09:12.142 [info] Renamed to /home/sarahwoolsey87/.vscode-server/extensions/rangav.vscode-thunder-client-2.7.6
+2023-06-11 20:09:12.148 [info] Extracting extension completed. rangav.vscode-thunder-client
+2023-06-11 20:09:12.236 [info] Extension installed successfully: rangav.vscode-thunder-client
+2023-06-11 23:49:56.033 [info] [127.0.0.1][6f5421c8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-11 23:49:56.510 [info] [127.0.0.1][dcff0b19][ExtensionHostConnection] <25723> Extension Host Process exited with code: 0, signal: null.

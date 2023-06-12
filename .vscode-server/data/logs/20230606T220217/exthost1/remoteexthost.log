@@ -1,0 +1,7 @@
+2023-06-06 22:02:38.605 [info] Extension host with pid 6485 started
+2023-06-06 22:02:39.107 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-06 22:02:39.109 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onLanguage:git-commit'
+2023-06-06 22:02:39.109 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-06-06 22:02:39.109 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-06-06 22:02:40.569 [info] Extension host terminating: received terminate message from renderer
+2023-06-06 22:02:40.571 [info] Extension host with pid 6485 exiting with code 0

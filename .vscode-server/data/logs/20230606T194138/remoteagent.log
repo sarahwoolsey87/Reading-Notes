@@ -1,0 +1,23 @@
+2023-06-06 19:41:39.635 [info] 
+
+
+
+
+2023-06-06 19:41:40.081 [info] Extension host agent started.
+2023-06-06 19:41:42.711 [info] [127.0.0.1][d8ddbb73][ManagementConnection] New connection established.
+2023-06-06 19:41:42.726 [info] [127.0.0.1][e2a7873d][ExtensionHostConnection] New connection established.
+2023-06-06 19:41:42.733 [info] [127.0.0.1][e2a7873d][ExtensionHostConnection] <1168> Launched Extension Host Process.
+2023-06-06 19:42:14.246 [info] [127.0.0.1][1e72ab1b][ManagementConnection] New connection established.
+2023-06-06 19:42:16.065 [info] [127.0.0.1][56ecc6eb][ExtensionHostConnection] New connection established.
+2023-06-06 19:42:16.075 [info] [127.0.0.1][56ecc6eb][ExtensionHostConnection] <1313> Launched Extension Host Process.
+2023-06-06 19:44:23.485 [info] [127.0.0.1][d8ddbb73][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-06 19:44:23.822 [info] [127.0.0.1][e2a7873d][ExtensionHostConnection] <1168> Extension Host Process exited with code: 0, signal: null.
+2023-06-06 19:54:42.209 [info] Getting Manifest... github.vscode-pull-request-github
+2023-06-06 19:54:43.450 [info] Installing extension: github.vscode-pull-request-github
+2023-06-06 19:54:50.487 [info] Extension signature is verified: github.vscode-pull-request-github
+2023-06-06 19:54:50.745 [info] Extracted extension to /home/sarahwoolsey87/.vscode-server/extensions/.2425fa84-7b93-4499-b17b-004ebd2db5f7: github.vscode-pull-request-github
+2023-06-06 19:54:50.811 [info] Renamed to /home/sarahwoolsey87/.vscode-server/extensions/github.vscode-pull-request-github-0.64.0
+2023-06-06 19:54:50.821 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-06-06 19:54:50.887 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-06-06 22:01:49.485 [info] [127.0.0.1][1e72ab1b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-06 22:01:54.290 [info] [127.0.0.1][56ecc6eb][ExtensionHostConnection] <1313> Extension Host Process exited with code: 0, signal: null.

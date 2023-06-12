@@ -1,0 +1,12 @@
+2023-06-08 06:19:18.090 [warning] /home/sarahwoolsey87/.ssh/config: ENOENT: no such file or directory, open '/home/sarahwoolsey87/.ssh/config'
+2023-06-08 06:19:18.310 [info] Looking for git repository
+2023-06-08 06:19:18.310 [info] Found 0 repositories during activation
+2023-06-08 06:19:18.310 [info] Git repository found, initializing review manager and pr tree view.
+2023-06-08 06:19:18.319 [info] Registering git provider
+2023-06-08 06:19:18.320 [info] Review> Validate state in progress
+2023-06-08 06:19:18.320 [info] Review> Validating state...
+2023-06-08 06:19:18.374 [info] Found GitHub remote for folder /home/sarahwoolsey87/Reading-Notes
+2023-06-08 06:19:18.930 [info] Repo state for file:///home/sarahwoolsey87/Reading-Notes changed.
+2023-06-08 06:19:18.930 [info] Repo file:///home/sarahwoolsey87/Reading-Notes has already been setup.
+2023-06-08 06:19:18.940 [info] Review> no matching pull request metadata found for current branch main
+2023-06-08 06:19:19.340 [info] Review> No matching pull request metadata found on GitHub for current branch main

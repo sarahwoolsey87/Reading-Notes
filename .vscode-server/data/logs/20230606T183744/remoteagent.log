@@ -1,0 +1,9 @@
+2023-06-06 18:37:45.316 [info] 
+
+
+
+
+2023-06-06 18:37:46.147 [info] Extension host agent started.
+2023-06-06 18:37:49.825 [info] [127.0.0.1][b45424cc][ManagementConnection] New connection established.
+2023-06-06 18:37:51.510 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-06 18:37:53.080 [info] [127.0.0.1][b45424cc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

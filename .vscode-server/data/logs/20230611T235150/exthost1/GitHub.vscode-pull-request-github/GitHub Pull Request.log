@@ -1,0 +1,68 @@
+2023-06-11 23:52:02.458 [warning] /home/sarahwoolsey87/.ssh/config: ENOENT: no such file or directory, open '/home/sarahwoolsey87/.ssh/config'
+2023-06-11 23:52:03.248 [info] Looking for git repository
+2023-06-11 23:52:03.248 [info] Found 0 repositories during activation
+2023-06-11 23:52:03.248 [info] Git repository found, initializing review manager and pr tree view.
+2023-06-11 23:52:03.255 [info] Registering git provider
+2023-06-11 23:52:03.256 [info] Review> Validate state in progress
+2023-06-11 23:52:03.256 [info] Review> Validating state...
+2023-06-11 23:52:03.318 [info] Found GitHub remote for folder /home/sarahwoolsey87/Reading-Notes
+2023-06-11 23:52:03.952 [info] Repo state for file:///home/sarahwoolsey87/Reading-Notes changed.
+2023-06-11 23:52:03.952 [info] Repo file:///home/sarahwoolsey87/Reading-Notes has already been setup.
+2023-06-11 23:52:03.955 [info] Review> no matching pull request metadata found for current branch main
+2023-06-11 23:52:04.411 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-12 10:47:34.568 [info] Repository file:///home/sarahwoolsey87/.ssh/201- has been opened
+2023-06-12 10:47:34.568 [info] Review> Validate state in progress
+2023-06-12 10:47:34.568 [info] Review> Validating state...
+2023-06-12 10:47:34.570 [warning] No remotes found. The following remotes are missing: origin, upstream
+2023-06-12 10:47:34.570 [info] No GitHub remotes found for folder /home/sarahwoolsey87/.ssh/201-
+2023-06-12 10:47:34.643 [info] Review> Queuing additional validate state
+2023-06-12 10:47:34.643 [info] Repo state for file:///home/sarahwoolsey87/.ssh/201- changed.
+2023-06-12 10:47:34.643 [info] Repo file:///home/sarahwoolsey87/.ssh/201- has already been setup.
+2023-06-12 10:47:34.853 [info] Review> Validating state...
+2023-06-12 10:47:34.908 [info] Found GitHub remote for folder /home/sarahwoolsey87/.ssh/201-
+2023-06-12 10:47:35.400 [info] Review> no matching pull request metadata found for current branch main
+2023-06-12 10:47:35.793 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-12 10:52:05.996 [info] Repository file:///home/sarahwoolsey87/.ssh/102-Labwork-v2- has been opened
+2023-06-12 10:52:05.997 [info] Review> Validate state in progress
+2023-06-12 10:52:05.997 [info] Review> Validating state...
+2023-06-12 10:52:06.002 [warning] No remotes found. The following remotes are missing: origin, upstream
+2023-06-12 10:52:06.002 [info] No GitHub remotes found for folder /home/sarahwoolsey87/.ssh/102-Labwork-v2-
+2023-06-12 10:52:06.087 [info] Review> Queuing additional validate state
+2023-06-12 10:52:06.087 [info] Repo state for file:///home/sarahwoolsey87/.ssh/102-Labwork-v2- changed.
+2023-06-12 10:52:06.087 [info] Repo file:///home/sarahwoolsey87/.ssh/102-Labwork-v2- has already been setup.
+2023-06-12 10:52:06.155 [info] Review> Validating state...
+2023-06-12 10:52:06.167 [info] Found GitHub remote for folder /home/sarahwoolsey87/.ssh/102-Labwork-v2-
+2023-06-12 10:52:06.707 [info] Review> no matching pull request metadata found for current branch main
+2023-06-12 10:52:07.092 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-12 10:55:37.663 [info] Review> Validate state in progress
+2023-06-12 10:55:37.663 [info] Review> Validating state...
+2023-06-12 10:55:37.778 [info] Found GitHub remote for folder /home/sarahwoolsey87/Reading-Notes
+2023-06-12 10:55:38.024 [info] Review> no matching pull request metadata found for current branch main
+2023-06-12 10:55:38.436 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-12 10:55:45.033 [info] Review> Validate state in progress
+2023-06-12 10:55:45.033 [info] Review> Validating state...
+2023-06-12 10:55:45.041 [info] Found GitHub remote for folder /home/sarahwoolsey87/Reading-Notes
+2023-06-12 10:55:45.357 [info] Review> no matching pull request metadata found for current branch main
+2023-06-12 10:55:45.762 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-12 10:57:37.231 [info] Review> Validate state in progress
+2023-06-12 10:57:37.231 [info] Review> Validating state...
+2023-06-12 10:57:37.370 [info] Found GitHub remote for folder /home/sarahwoolsey87/.ssh/102-Labwork-v2-
+2023-06-12 10:57:37.537 [info] Review> no matching pull request metadata found for current branch main
+2023-06-12 10:57:38.588 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-12 10:57:42.285 [info] Review> Validate state in progress
+2023-06-12 10:57:42.285 [info] Review> Validating state...
+2023-06-12 10:57:42.328 [info] Found GitHub remote for folder /home/sarahwoolsey87/.ssh/102-Labwork-v2-
+2023-06-12 10:57:42.381 [info] Review> no matching pull request metadata found for current branch main
+2023-06-12 10:57:42.836 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-12 12:03:20.359 [info] Repository file:///home/sarahwoolsey87/.git/201-Labwork has been opened
+2023-06-12 12:03:20.359 [info] Review> Validate state in progress
+2023-06-12 12:03:20.359 [info] Review> Validating state...
+2023-06-12 12:03:20.361 [warning] No remotes found. The following remotes are missing: origin, upstream
+2023-06-12 12:03:20.361 [info] No GitHub remotes found for folder /home/sarahwoolsey87/.git/201-Labwork
+2023-06-12 12:03:20.447 [info] Review> Queuing additional validate state
+2023-06-12 12:03:20.447 [info] Repo state for file:///home/sarahwoolsey87/.git/201-Labwork changed.
+2023-06-12 12:03:20.447 [info] Repo file:///home/sarahwoolsey87/.git/201-Labwork has already been setup.
+2023-06-12 12:03:20.638 [info] Review> Validating state...
+2023-06-12 12:03:20.698 [info] Found GitHub remote for folder /home/sarahwoolsey87/.git/201-Labwork
+2023-06-12 12:03:21.194 [info] Review> no matching pull request metadata found for current branch main
+2023-06-12 12:03:21.195 [info] Review> No matching pull request metadata found on GitHub for current branch main

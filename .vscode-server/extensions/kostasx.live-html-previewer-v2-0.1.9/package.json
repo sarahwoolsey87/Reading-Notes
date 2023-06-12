@@ -1,0 +1,123 @@
+{
+	"name": "live-html-previewer-v2",
+	"displayName": "Live HTML & JS Previewer v2",
+	"description": "Preview your HTML & JS files in VSCode itself.",
+	"version": "0.1.9",
+	"icon": "icon.png",
+	"publisher": "kostasx",
+	"engines": {
+		"vscode": "^1.35.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kostasx/live-html-preview-v2.git"
+	},
+	"activationEvents": [
+		"onLanguage:html",
+		"onLanguage:javascript"
+	],
+	"main": "./out/src/extension",
+	"contributes": {
+		"commands": [
+			{
+				"command": "extension.sideJSFlowChart",
+				"title": "Show JS FlowChart (side preview)"
+			},
+			{
+				"command": "extension.sidePreview",
+				"title": "Show HTML side preview"
+			},
+			{
+				"command": "extension.fullPreview",
+				"title": "Show HTML full preview"
+			},
+			{
+				"command": "extension.inBrowser",
+				"title": "Open HTML in browser"
+			}
+		],
+		"menus": {
+			"explorer/context": [
+				{
+					"when": "resourceLangId == html",
+					"command": "extension.inBrowser",
+					"group": "navigation"
+				}
+			],
+			"editor/context": [
+				{
+					"when": "resourceLangId == html",
+					"command": "extension.inBrowser",
+					"group": "navigation"
+				}
+			]
+		},
+		"keybindings": [
+			{
+				"command": "extension.sideJSFlowChart",
+				"key": "ctrl+q c",
+				"mac": "ctrl+q c",
+				"when": "editorTextFocus"
+			},
+			{
+				"command": "extension.sidePreview",
+				"key": "ctrl+q s",
+				"mac": "ctrl+q s",
+				"when": "editorTextFocus"
+			},
+			{
+				"command": "extension.fullPreview",
+				"key": "ctrl+q f",
+				"mac": "ctrl+q f",
+				"when": "editorTextFocus"
+			},
+			{
+				"command": "extension.inBrowser",
+				"key": "ctrl+q w",
+				"mac": "ctrl+q w",
+				"when": "editorTextFocus"
+			}
+		],
+		"configuration": {
+			"type": "object",
+			"title": "Live HTML Previewer v2",
+			"properties": {
+				"vscode.liveHtmlPreviewerV2.disableWebViewStyling": {
+					"type": "boolean",
+					"default": false,
+					"description": "Controls whether the default WebView CSS styling will be applied. When a dark theme has been selected in VSCode, it means that it will also be applied to the preview WebViews. If you want to disable this behavior, toggle this setting."
+				}
+			}
+		}
+	},
+	"scripts": {
+		"vscode:prepublish": "tsc -p ./",
+		"compile": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install"
+	},
+	"dependencies": {
+		"opn": "^4.0.2",
+		"path": "^0.12.7",
+		"js2flowchart": "^1.1.7"
+	},
+	"devDependencies": {
+		"@types/mocha": "^2.2.32",
+		"@types/node": "^6.0.40",
+		"eslint": "^5.13.0",
+		"typescript": "^2.0.3",
+		"vscode": "^1.1.28"
+	},
+	"__metadata": {
+		"id": "e4176bbc-17eb-479b-8d37-3669684ad2b6",
+		"publisherDisplayName": "Kostas Minaidis",
+		"publisherId": "789cf2b3-0004-46b6-afe5-61f8aac2dbfd",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1686509388436,
+		"preRelease": false
+	}
+}
