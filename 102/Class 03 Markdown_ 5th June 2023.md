@@ -2,6 +2,12 @@
 ## _Notes from 0.1 Pre-Reading_
 *Sarah Woolsey*
 
+[Getting Started](https://www.markdownguide.org/getting-started/)
+[Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+[Mastering Markdown on Github](https://guides.github.com/features/mastering-markdown/)
+[Getting Started with Github Pages](https://guides.github.com/features/pages/)
+[Github Pages](https://pages.github.com/)
+[Writing & Formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
 ***What is Markdown?***
 Gruber's Markdown language is a simple way of writing and formatting text that can be easily converted to HTML, to create websites. It's a special code that lets you add basic formatting, such as headers, lists, and links, to your text without needing to know complicated coding. It's a handy tool for quickly creating content that looks nice on the web without fussing over complex technical details.
