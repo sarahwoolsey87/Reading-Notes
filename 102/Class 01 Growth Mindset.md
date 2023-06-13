@@ -1,3 +1,5 @@
+[Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
 # 1. Explain, in your own words, what is meant by **Growth Mindset** 
 
 A growth mindset refers to the belief that abilities, talents, and intelligence can be developed and improved through effort, practice, and perseverance. It is the understanding that one's potential is not fixed, but can be expanded with dedication and a willingness to learn from failures and setbacks.
